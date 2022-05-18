@@ -1,0 +1,25 @@
+@media (max-width: 955px) {
+    .content {
+        width: 735px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 750px) {
+    .content {
+        width: 535px;
+        height: 300px;
+    }
+}
+
+@media (max-width: 550px) {
+    .content {
+        width: 335px;
+        height: 200px;
+    }
+
+    .bar {
+        width: 50px;
+        height: 15px;
+    }
+}
